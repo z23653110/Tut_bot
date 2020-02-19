@@ -1,6 +1,8 @@
 {
-    "TOKEN": "Njc5NjQyNTg2MTA5MzEzMDM0.Xk0dEA.eXNoUCSy2cm2icsLlkPAYEziKMw",
+    "TOKEN": "Njc5NjQyNTg2MTA5MzEzMDM0.Xk024A.APsOJYAtYeXaOIxSaHPFfkwFyps",
     "Welcome_Channel": "679661945212895233",
-    "Leave_Channel": "679662035411140670"
-    
+    "Leave_Channel": "679662035411140670",
+    "dice": ["photo\\dice1.png","photo\\dice2.png","photo\\dice3.png","photo\\dice4.png","photo\\dice5.png","photo\\dice6.png"],
+    "url-pic": ["https://miro.medium.com/max/720/1*XGw9zUEZGYPNmeKGmyeX1g.jpeg","https://pic.pimg.tw/umod/1380572757-3273552701.jpg"]
+
 }
